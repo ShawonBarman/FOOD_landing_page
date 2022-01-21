@@ -333,7 +333,8 @@ p{
 }
 /* review section css code end here */
 
-/* footer section css code starting here */.footer_wrapper{
+/* footer section css code starting here */
+.footer_wrapper{
     background-color: var(--bg-white);
     padding: 20px 0;
 }
